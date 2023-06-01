@@ -14,7 +14,7 @@ body {
   left: 0;
   position: absolute;
   background-image: url("paper.gif");
-  background-size: stretch;
+  background-size: cover;
 }
 
 #left-paddle {
