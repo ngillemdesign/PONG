@@ -10,7 +10,7 @@ class soundFile {
     this.player = new Tone.Player({
       url: "./sounds/" + file,
       loop: false,
-      autostart: true
+      autostart: false
     }).toMaster();
   }
   //Play function also with pre-stop and deferred playing
