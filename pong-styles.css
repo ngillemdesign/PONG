@@ -10,7 +10,7 @@ body {
 }
 #game {
   margin: 4px;
-  border: 5px solid black;
+  border: 5px solid cyan;
   left: 0;
   position: absolute;
   background-image: url("paper.gif");
@@ -18,13 +18,13 @@ body {
 }
 
 #left-paddle {
-  background-color: yellow;
+  background-color: cyan;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: yellow;
+  background-color: cyan;
   right: 10px;
 }
 
@@ -75,7 +75,7 @@ body {
 .ball {
   width: 15px;
   height: 15px;
-  background-color: yellow;
+  background-color: cyan;
   border-radius: 10px;
   position: absolute;
   left: 50px;
