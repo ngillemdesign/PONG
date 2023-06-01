@@ -1,12 +1,3 @@
-HELLO WORLD
-/*This is where the game code takes place
-You'll mainly be adding imports from audio.js or events.js
-and then activating/checking them in the top two sections
-STARTUP EVENTS - things that will run once when the game starts
-RUNNING PROCESSES - things that will run every frame
-*/
-
-
 //Import Code From Other JS Modules
 //Sound functions and classes
 import {
